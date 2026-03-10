@@ -1,0 +1,6 @@
+{
+  "name": "Camera Follow Token",
+  "version": "1.0.0",
+  "description": "Fixes the camera on a token and follows it in real time",
+  "entry": "index.html"
+}
